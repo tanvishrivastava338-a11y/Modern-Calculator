@@ -17,16 +17,12 @@ A sleek and responsive calculator built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-## 📷 Screenshot
-
-(Add screenshot here)
-
 ## 📂 Installation
 
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Modern-Calculator.git
+git clone https://github.com/tanvishrivastava338-a11y/Modern-Calculator.git
 ```
 
 Open `index.html`.
