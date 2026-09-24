@@ -1,6 +1,7 @@
 # 🧮 Modern Calculator
 
 A sleek and responsive calculator built using HTML, CSS, and JavaScript.
+https://moderncalculator11.netlify.app/
 
 ## ✨ Features
 
